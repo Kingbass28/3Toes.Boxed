@@ -1,0 +1,75 @@
+html {
+    background-color: yellow;
+}
+
+h1 {
+    margin: 10px;
+    border: 20px double rebeccapurple;
+    padding: 10px;
+    text-align: center;
+    font-size: 75px;
+    color: rebeccapurple;
+    font-family: "Emblema One", serif;
+    
+}
+
+[value="4"] {
+    margin: 25px;
+    padding: 10px;
+    font-size: 20px;
+    font-style:oblique;
+}
+
+#font {
+    font-family: Itim, serif;
+    font-size: 30px;
+    color: rebeccapurple;
+}
+
+ul{
+    font-size: 20px;
+    font-family: "Tomorrow", serif;
+}
+
+.para {
+    font-size: 20px;
+    font-family: "Tomorrow", serif;
+}
+
+.link-container {
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    margin: 25px;
+    padding: 10px;
+    
+    }
+
+.link-container a {
+    margin-right: 90px;
+    color: rebeccapurple;
+    font-family: "Shadows Into Light", serif;
+}
+
+.link-container a:last-child {
+    margin-right: 0px;
+}
+
+[value="5"] {
+    margin: 10px 0px 10px 100px;
+    border: 10px dotted rebeccapurple;
+    padding: 10px;
+    height: 300px;
+}
+
+[value="3"] {
+    margin: 5px;
+    border: 10px dashed rebeccapurple;
+}
+
+form {
+    margin: 25px 100px;
+    border: 10px solid rebeccapurple;
+    padding: 10px;
+    text-align: center;
+}

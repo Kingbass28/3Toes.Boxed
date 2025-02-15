@@ -1,0 +1,75 @@
+html {
+    background-color:coral;
+}
+
+h1 {
+    color: rgb(3, 252, 144);
+    text-align: center;
+    font-family: "Akaya Kanadaka", serif;
+    font-size: 50px;
+}
+
+.link-container {
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    }
+
+.link-container a {
+    margin-right: 90px;
+    color: rgb(3, 252, 144);
+    font-family: "Akaya Kanadaka", serif;
+}
+
+.link-container a:last-child {
+    margin-right: 0px;
+}
+
+h4 {
+    font-size: 30px;
+    color:cyan;
+    font-family: "Rubik Distressed", serif;
+    text-align: center;
+    font-weight: lighter;
+}
+
+p {
+text-align: center;
+font-size: 25px;
+font-family:"Akaya Kanadaka", serif;
+}
+
+
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;
+    width: 80%;
+    border-collapse: collapse;
+    text-align: center;
+    font-style:italic;
+    font-size: 20px;
+}
+
+.boxed {
+    margin: 20px;
+    border: 3px dashed cyan;
+    padding: 10px;
+    text-align: center; 
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid black;
+    padding: 0px;
+    width: 50%;
+    }
+
+p.boxed{
+    border: 3px solid cyan;
+}
+
+    
