@@ -42,13 +42,12 @@ ul{
     font-size: 40px;
     margin: 25px;
     padding: 10px;
-    
+    font-family: "Emblema One", serif;
     }
 
 .link-container a {
     margin-right: 90px;
     color: rebeccapurple;
-    font-family: "Shadows Into Light", serif;
 }
 
 .link-container a:last-child {
