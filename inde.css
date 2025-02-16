@@ -11,7 +11,8 @@ h1 {
     padding: 5px;
 }
 
-.center {
+<!--this class is so our imge is cntre
+.center { 
     display: block;
     margin-top: 20px;
     margin-left: auto;
@@ -19,8 +20,8 @@ h1 {
     width: 700px;
 }
     
-
-.link-container {
+<!-- class to cen ter our lin k containr 
+.link-container {  
     display: flex;
     justify-content: center;
     font-size: 25px;
